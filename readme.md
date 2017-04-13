@@ -1,4 +1,4 @@
-		AuthProject
+AUTHPROJECT
 Simple système d'authentification.
 Il ne s'agit pas d'un projet orienté objet mais de code PHP procédural.
 
